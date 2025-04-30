@@ -5,4 +5,6 @@
   <a href="https://www.instagram.com/rdgobastos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram"  />
   </a>
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bastosrodrigo?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
